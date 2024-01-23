@@ -1,0 +1,6 @@
+@OdfSearchService_HostAddress = http://localhost:5278
+
+GET {{OdfSearchService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
